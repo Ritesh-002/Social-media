@@ -1,7 +1,9 @@
 # Social Media using MERN Stack
 
 ![image](https://github.com/user-attachments/assets/43b66daa-7ce9-427f-bd33-dc84f7fcf97a)
+
 ![image](https://github.com/user-attachments/assets/ce24d422-1ed8-4810-8faa-f0ba1c313efd)
+
 ![image](https://github.com/user-attachments/assets/fc79eb50-9e02-410b-8b3c-9b4b969ee9ae)
 
 Some Features:
