@@ -1,6 +1,6 @@
 # Social Media using MERN Stack
 
-![Demo App](https://i.ibb.co/f8y9vGS/Group-82.png)
+![image](https://github.com/user-attachments/assets/b95411aa-a4be-4cd6-9aea-93421261b914)
 
 Some Features:
 
